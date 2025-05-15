@@ -6,5 +6,5 @@
     "stremio-addon-sdk": "^1.0.0",
     "node-fetch": "^2.6.7",
     "iptv-playlist-parser":"^0.5.0"
- }
+}
 }
